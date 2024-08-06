@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+}
+
+.headerHome{
+    color: white;
+    background-color: blueviolet;
+    margin-bottom: 20px;
+    height: 80px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+a{
+    color: #dfaf67;
+    text-decoration: none;
+}
+
+body{
+    background-color: rgb(235, 222, 245);
+}
+
+.logo{
+    max-height: 100px;
+    margin-bottom: 10px;
+}
+
+.tituloHome{
+    text-align: center;
+    font-size: 30px;
+    color: #dfaf67;
+    margin-bottom: 10px;
+}
