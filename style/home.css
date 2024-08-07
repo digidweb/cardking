@@ -95,5 +95,11 @@ button:hover{
 }
 
 .footerHome{
-
+    background-color: blueviolet;
+    font-size: 25;
+    color: #dfaf67;
+    text-align: center;
+    line-height: 50px;
+    width: 100%;
+    height: 65px;
 }
